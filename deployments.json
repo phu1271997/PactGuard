@@ -1,0 +1,12 @@
+{
+  "network": "studionet",
+  "chainId": 61999,
+  "deployer": "0x8b563A8c9eeF530300e92E26457D1AB001daEcC7",
+  "contracts": {
+    "PactGuard": {
+      "address": "0xb2cA43d78aaaE0B8888767f2E143321BBced2fEe",
+      "tx": "0x2ea929c3e7397cd2f5fa4cc2bdc8859b979f36c3ee099b736323f23813109c74",
+      "explorer": "https://genlayer-explorer.vercel.app/address/0xb2cA43d78aaaE0B8888767f2E143321BBced2fEe"
+    }
+  }
+}
