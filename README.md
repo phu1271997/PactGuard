@@ -15,7 +15,7 @@ SLA was actually breached and how severely.
 - **Network:** GenLayer **studionet** (chain id `61999`) — deployed via `genlayer-py`.
 - **Contract (studionet):** `0xb2cA43d78aaaE0B8888767f2E143321BBced2fEe`
   · [View on Explorer](https://genlayer-explorer.vercel.app/address/0xb2cA43d78aaaE0B8888767f2E143321BBced2fEe)
-- **Live dApp:** see the deployment URL in this repo's About / release notes.
+- **Live dApp (Vercel):** https://pactguard-three.vercel.app
 
 ---
 
